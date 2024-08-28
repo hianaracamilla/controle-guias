@@ -1,13 +1,7 @@
 # Controle de Guias
 
-Este projeto contém um código em Python, implementado em um Jupyter Notebook, que processa e manipula dados de guias de viagens. O código realiza operações de limpeza e transformação em uma tabela extraída de um arquivo HTML.
-
-## Pré-requisitos
-
-- Python 3.6 ou superior
-- Jupyter Notebook
-- Bibliotecas:
-  - `pandas` (para manipulação de dados)
+Este projeto contém um código em Python, implementado em um Jupyter Notebook, que processa e manipula dados de viagens realizadas por guias por dia. 
+O código realiza operações de limpeza e transformação em uma tabela extraída de um arquivo HTML.
 
 ## Uso
 
